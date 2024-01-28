@@ -14,7 +14,7 @@ import pandas as pd
 headers = {
    'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 Edg/85.0.564.41'
    }
-restaurant_name = "貝思諾" #113評論 #存擋用#gittest
+restaurant_name = "貝思諾" #113評論 #存擋用
 url_prefix = "https://www.google.com/async/reviewDialog?ei=TS4hYOX2JvOJr7wPjLu46AY&yv=3&async=feature_id:0x346e05e739267f8f%3A0xfebc44443f2cf20,review_source:All%20reviews,sort_by:qualityScore,start_index:0,is_owner:false,filter_text:,associated_topic:,next_page_token:,async_id_prefix:,_pms:s,_fmt:pc"
 
 
